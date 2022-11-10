@@ -9,4 +9,4 @@ This analysis project on Netflix Movies and TV Shows involves data preprocessing
 5. Inferences and Conclusion
 6. References and Future Work
 
-Dataset Soruce: [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) 
+Dataset Source: [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) 
